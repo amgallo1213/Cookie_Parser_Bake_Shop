@@ -17,7 +17,7 @@ h1  {
     color: #E4EfE9;
     font-family: 'Lato', sans-serif;
     font-size: 85px;
-    font-weight: 400;
+    font-weight: 300;
     text-align: center;
 }
 
@@ -34,7 +34,6 @@ nav {
     justify-content: space-around;
     align-items: center;
     font-family: 'Lato', sans-serif;
-    /* color: #E4EfE9; */
     color: #ff4e50;
     font-size: 20px;
     background-color: #E4EfE9;
@@ -42,4 +41,19 @@ nav {
     width: 100vw;
     margin-top: -10px;
     margin-left: -8px;
+}
+
+.menu-link  {
+    font-family: 'Lato', sans-serif;
+    color: #ff4e50;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+#main-cookie-image  {
+    height: 500px;
+    margin-left: 550px;
+    margin-top: -30px;
+    border-radius: 15%;
 }
