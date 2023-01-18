@@ -1,7 +1,14 @@
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 #main-div   {
     height: 400px;
-    width: 400px;
-    background: linear-gradient(#C33764, #1D2671);
+    width: 100vw;
+    background: linear-gradient(#ff4e50, #f9d423);
 }
 
 h1  {
