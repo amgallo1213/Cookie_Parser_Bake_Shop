@@ -45,24 +45,30 @@ h1  {
 #cookie-types   {
     display: flex;
     flex-direction: column;
-    margin-top: 100px;
+    margin-top: 125px;
 }
 
 #cookie-type-row-1  {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    font-family: 'Lato', sans-serif;
 }
 
 #cookie-type-row-2  {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    font-family: 'Lato', sans-serif;
 }
 
 .cookie-type-image  {
     height: 250px;
     border-radius: 50%;
+}
+
+.cookie-type-label  {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ff4e50;
+    
 }
