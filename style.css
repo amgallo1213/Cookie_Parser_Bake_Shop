@@ -51,6 +51,13 @@ h3  {
     margin-top: 80px;
 }
 
+#about-us-image {
+    height: 300px;
+    border-radius: 15%;
+    margin-left: 600px;
+    margin-top: -10px;
+}
+
 #cookie-types   {
     display: flex;
     flex-direction: column;
