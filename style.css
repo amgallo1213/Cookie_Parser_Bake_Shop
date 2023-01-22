@@ -62,6 +62,11 @@ h3  {
     margin-top: -10px;
 }
 
+.about-us-description   {
+    color: #E4EfE9;
+    margin-bottom: -5px;
+}
+
 #cookie-types   {
     display: flex;
     flex-direction: column;
