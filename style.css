@@ -73,3 +73,10 @@ h1  {
     margin-left: 70px;
     
 }
+
+
+#locationhours  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
