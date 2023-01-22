@@ -68,8 +68,8 @@ h3  {
 }
 
 #cookie-types   {
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
     margin-top: 125px;
 }
 
@@ -99,12 +99,27 @@ h3  {
     
 }
 
+.cookie-type-button {
+    background-color: #ff4e50;
+    border: #ff4e50;
+    color: #E4EfE9;
+    font-family: 'Lato', sans-serif;
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+}
+
+.cookie-type-div    {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 #locationhours  {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 
 .locationhours  {
